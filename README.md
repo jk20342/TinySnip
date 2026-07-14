@@ -10,7 +10,7 @@ A tiny 2504 byte Windows snipping tool written in 32-bit MASM assembly.
 - Sharp preview and automatic clipboard copy
 - Red pen with eight-level Undo/Redo
 - PNG, JPEG, and BMP saving
-- Compact custom dark interface
+- Dark interface
 - Escape or right-click to cancel
 
 ## Build
